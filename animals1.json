@@ -21,6 +21,6 @@
           { "id" : 19, "name" : "Australian Swiftlet" },
           { "id" : 20, "name" : "Australian Pelican" }
     ],
-    "next" : "",
-    "prev" : ""
+    "next" : "https://raw.githubusercontent.com/MinusAB/samplejsondata/main/animals2.json",
+    "prev" : null
 }
