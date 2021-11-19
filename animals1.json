@@ -1,0 +1,26 @@
+{
+    "results" : [
+          { "id" : 1, "name" : "Aardvark" },
+          { "id" : 2, "name" : "Addax" },
+          { "id" : 3, "name" : "Adelie Penguin" },
+          { "id" : 4, "name" : "African Elephant" },
+          { "id" : 5, "name" : "African Forest Elephant" },
+          { "id" : 6, "name" : "African Lions" },
+          { "id" : 7, "name" : "African Penguin" },
+          { "id" : 8, "name" : "African Spurred Tortoise" },
+          { "id" : 9, "name" : "African Wild Dog" },
+          { "id" : 10, "name" : "Africanized Bees" },
+          { "id" : 11, "name" : "Alligator" },
+          { "id" : 12, "name" : "Allis Shad" },
+          { "id" : 13, "name" : "Alpine Ibex" },
+          { "id" : 14, "name" : "Amazonian Manatee" },
+          { "id" : 15, "name" : "Aquatic Warbler" },
+          { "id" : 16, "name" : "Arctic Wolf" },
+          { "id" : 17, "name" : "Asian Lion" },
+          { "id" : 18, "name" : "Atlas Beetle" },
+          { "id" : 19, "name" : "Australian Swiftlet" },
+          { "id" : 20, "name" : "Australian Pelican" }
+    ],
+    "next" : "",
+    "prev" : ""
+}
