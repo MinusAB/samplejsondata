@@ -21,6 +21,6 @@
           { "id" : 39, "name" : "Brown Recluse Spider" },
           { "id" : 40, "name" : "Burying Beetle" }
     ],
-    "next" : "",
+    "next" : "https://raw.githubusercontent.com/MinusAB/samplejsondata/main/animals3.json",
     "prev" : "https://raw.githubusercontent.com/MinusAB/samplejsondata/main/animals1.json"
 }
