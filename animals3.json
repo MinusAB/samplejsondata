@@ -1,0 +1,26 @@
+{
+    "results" : [
+          { "id" : 41, "name" : "Bactrian Camels" },
+          { "id" : 42, "name" : "Badger" },
+          { "id" : 43, "name" : "Bean Goose" },
+          { "id" : 44, "name" : "Bengal Tigers" },
+          { "id" : 45, "name" : "Big Eyed Squirrel Fish" },
+          { "id" : 46, "name" : "Bison" },
+          { "id" : 47, "name" : "Black Caimans" },
+          { "id" : 48, "name" : "Black House Spider" },
+          { "id" : 49, "name" : "Black Necked Stilt" },
+          { "id" : 50, "name" : "Black Rhinoceros" },
+          { "id" : 51, "name" : "Blacktip Shark" },
+          { "id" : 52, "name" : "Blue and Yellow Macaw" },
+          { "id" : 53, "name" : "Blue Whale" },
+          { "id" : 54, "name" : "Blue-footed Booby Bird" },
+          { "id" : 55, "name" : "Boa Constrictor Snake" },
+          { "id" : 56, "name" : "Bottlenose Dolphins" },
+          { "id" : 57, "name" : "Bowhead Whale" },
+          { "id" : 58, "name" : "Brandling Worms" },
+          { "id" : 59, "name" : "Brown Recluse Spider" },
+          { "id" : 60, "name" : "Burying Beetle" }
+    ],
+    "next" : null,
+    "prev" : "https://raw.githubusercontent.com/MinusAB/samplejsondata/main/animals2.json"
+}
